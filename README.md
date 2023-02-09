@@ -1,3 +1,3 @@
-# EasyGo
+# Modern Javascript
 
-This is a bus ticket booking app
+Learning Modern javascript by building real apps.
